@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UnbotheredLalo
-- 👀 I’m interested in Software Develepmoent and Data Bases
+- 👀 I’m interested in Software Development, Machine Learning and Data Analysis
 - 🌱 I’m currently learning JavaScript and Java
 - 💞️ I’m looking to collaborate on App and Web pages development
 - 📫 How to reach me "it goes down in the DM"
